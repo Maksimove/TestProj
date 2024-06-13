@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		87621EB12C1B5B0B00317DE6 /* ProbaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87621EB02C1B5B0B00317DE6 /* ProbaViewController.swift */; };
 		8FB8CCA22C1B575000C77C7F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FB8CCA12C1B575000C77C7F /* AppDelegate.swift */; };
 		8FB8CCA42C1B575000C77C7F /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FB8CCA32C1B575000C77C7F /* SceneDelegate.swift */; };
 		8FB8CCA62C1B575000C77C7F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FB8CCA52C1B575000C77C7F /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		87621EB02C1B5B0B00317DE6 /* ProbaViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProbaViewController.swift; sourceTree = "<group>"; };
 		8FB8CC9E2C1B575000C77C7F /* TestProj.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TestProj.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8FB8CCA12C1B575000C77C7F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8FB8CCA32C1B575000C77C7F /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				8FB8CCA12C1B575000C77C7F /* AppDelegate.swift */,
 				8FB8CCA32C1B575000C77C7F /* SceneDelegate.swift */,
 				8FB8CCA52C1B575000C77C7F /* ViewController.swift */,
+				87621EB02C1B5B0B00317DE6 /* ProbaViewController.swift */,
 				8FB8CCA72C1B575000C77C7F /* Main.storyboard */,
 				8FB8CCAA2C1B575100C77C7F /* Assets.xcassets */,
 				8FB8CCAC2C1B575100C77C7F /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				8FB8CCA62C1B575000C77C7F /* ViewController.swift in Sources */,
 				8FB8CCA22C1B575000C77C7F /* AppDelegate.swift in Sources */,
 				8FB8CCA42C1B575000C77C7F /* SceneDelegate.swift in Sources */,
+				87621EB12C1B5B0B00317DE6 /* ProbaViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
